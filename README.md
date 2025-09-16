@@ -75,7 +75,7 @@ Optimizer: Adam | Loss: Categorical Crossentropy
 
 Output: 4 disease classes with probability scores
 
-Accuracy: ~XX% (add once trained fully)
+Accuracy: 70%
 
 📜 License
 This project is licensed under the MIT License.
