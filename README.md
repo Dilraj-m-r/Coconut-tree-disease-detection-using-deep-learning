@@ -30,6 +30,7 @@ IDE & Tools: VS Code, Jupyter Notebook
 🐞 Rhinoceros Beetle
 
 🌀 Rugose Spiraling Whitefly
+
 5️⃣ Model Saving – Trained model exported as trained_model_coconut.h5 (⚠️ excluded from repo due to GitHub size limits)
 6️⃣ Training & Validation – Accuracy and loss metrics tracked using validation split
 7️⃣ Practical Application – Supports agricultural disease monitoring and early detection
@@ -66,6 +67,35 @@ Train the model:
 
 python coconut_train.py
 
+SCREENSHOTS
+REGISTER
+
+<img width="1919" height="1023" alt="Screenshot 2025-09-17 160600" src="https://github.com/user-attachments/assets/a44fe23b-f6e8-487c-85f4-6470b1b8e409" />
+
+SIGIN
+
+<img width="1919" height="1020" alt="Screenshot 2025-09-17 160539" src="https://github.com/user-attachments/assets/ddd3c623-f91a-49e3-8ff9-23b89f474c6a" />
+
+UPLOAD
+
+<img width="1919" height="1014" alt="Screenshot 2025-09-17 160627" src="https://github.com/user-attachments/assets/4cebc31c-f4bd-4693-8a44-f87fdff22bc8" />
+
+🕷️ Eriophyid Mite
+
+<img width="1919" height="1013" alt="Screenshot 2025-09-17 160651" src="https://github.com/user-attachments/assets/c32c164d-58e2-4e82-9866-2a2d40f0fcd7" />
+
+🪲 Red Palm Weevil
+
+<img width="1913" height="1012" alt="Screenshot 2025-09-17 160800" src="https://github.com/user-attachments/assets/0ea2ec62-1930-4f5d-b4d8-2099f86741b5" />
+
+🐞 Rhinoceros Beetle
+
+<img width="1893" height="1012" alt="Screenshot 2025-09-17 160722" src="https://github.com/user-attachments/assets/e7d72326-290a-477a-857c-b30c68032730" />
+
+🌀 Rugose Spiraling Whitefly
+
+<img width="1895" height="1006" alt="Screenshot 2025-09-17 160919" src="https://github.com/user-attachments/assets/122fa03c-a233-4f75-8f62-ef59a38ff3f8" />
+
 
 📊 Results
 
@@ -76,6 +106,11 @@ Optimizer: Adam | Loss: Categorical Crossentropy
 Output: 4 disease classes with probability scores
 
 Accuracy: 70%
+
+⚠️ Note on Model File
+
+The trained model file (trained_model_coconut.h5) is ~170 MB and cannot be uploaded to GitHub due to size limits.
+Download it here: https://drive.google.com/file/d/1I4yFShd1tvodWeEyas98pKCUnEVIwiA0/view?usp=sharing
 
 📜 License
 This project is licensed under the MIT License.
