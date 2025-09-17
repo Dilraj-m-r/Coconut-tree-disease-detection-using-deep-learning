@@ -1,8 +1,8 @@
-🌴 Coconut Disease Detection using Deep Learning 🧠📷
+**🌴 Coconut Disease Detection using Deep Learning 🧠📷**
 
 Coconut Disease Detection is a Deep Learning-based image classification project that identifies four major coconut tree diseases. The project applies Convolutional Neural Networks (CNNs) along with data augmentation techniques to build a robust model for plant disease recognition, helping farmers and researchers monitor tree health effectively.
 
-💻 Tech Stack & Tools
+**💻 Tech Stack & Tools**
 
 Programming Language: Python 🐍
 
@@ -16,7 +16,7 @@ Augmentation: Keras ImageDataGenerator, Augmentor
 
 IDE & Tools: VS Code, Jupyter Notebook
 
-🧩 Features
+**🧩 Features**
 
 1️⃣ Image Preprocessing – Resizing coconut disease images to 150x150 pixels for uniformity
 2️⃣ Data Augmentation – Online augmentation (rotation, zoom, shear, shifts) and offline augmentation (flip, skew, grayscale) for dataset expansion
@@ -35,7 +35,7 @@ IDE & Tools: VS Code, Jupyter Notebook
 6️⃣ Training & Validation – Accuracy and loss metrics tracked using validation split
 7️⃣ Practical Application – Supports agricultural disease monitoring and early detection
 
-📂 Project Structure
+**📂 Project Structure**
 
 CoconutDisease/
 │── coconut_train.py        # Training script for CNN
@@ -45,7 +45,7 @@ CoconutDisease/
 │── README.md               # Project documentation
 
 
-⚙️ Setup Instructions
+**⚙️ Setup Instructions**
 
 Clone the repository:
 
@@ -67,12 +67,12 @@ Train the model:
 
 python coconut_train.py
 
-SCREENSHOTS
+**SCREENSHOTS**
 REGISTER
 
 <img width="1919" height="1023" alt="Screenshot 2025-09-17 160600" src="https://github.com/user-attachments/assets/a44fe23b-f6e8-487c-85f4-6470b1b8e409" />
 
-SIGIN
+SIGNIN
 
 <img width="1919" height="1020" alt="Screenshot 2025-09-17 160539" src="https://github.com/user-attachments/assets/ddd3c623-f91a-49e3-8ff9-23b89f474c6a" />
 
@@ -97,7 +97,7 @@ UPLOAD
 <img width="1895" height="1006" alt="Screenshot 2025-09-17 160919" src="https://github.com/user-attachments/assets/122fa03c-a233-4f75-8f62-ef59a38ff3f8" />
 
 
-📊 Results
+**📊 Results**
 
 Input size: 150x150 RGB images
 
