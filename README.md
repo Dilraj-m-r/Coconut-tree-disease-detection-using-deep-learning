@@ -112,7 +112,5 @@ Accuracy: 70%
 The trained model file (trained_model_coconut.h5) is ~170 MB and cannot be uploaded to GitHub due to size limits.
 Download it here: https://drive.google.com/file/d/1I4yFShd1tvodWeEyas98pKCUnEVIwiA0/view?usp=sharing
 
-📜 License
-This project is licensed under the MIT License.
 
 👨‍💻 Author: Dilraj M R | Final Year CSE Student | AI & Web Developer
