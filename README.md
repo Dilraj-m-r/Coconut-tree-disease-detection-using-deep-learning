@@ -1,6 +1,6 @@
-**🌴 Coconut Disease Detection using Deep Learning 🧠📷**
+**🌴 Coconut Tree Disease Detection using Deep Learning 🧠📷**
 
-Coconut Disease Detection is a Deep Learning-based image classification project that identifies four major coconut tree diseases. The project applies Convolutional Neural Networks (CNNs) along with data augmentation techniques to build a robust model for plant disease recognition, helping farmers and researchers monitor tree health effectively.
+Coconut Tree Disease Detection is a Deep Learning-based image classification project that identifies four major coconut tree diseases. The project applies Convolutional Neural Networks (CNNs) along with data augmentation techniques to build a robust model for plant disease recognition, helping farmers and researchers monitor tree health effectively.
 
 **💻 Tech Stack & Tools**
 
